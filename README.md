@@ -99,7 +99,7 @@ Launching a web server, Database Server EC2 instance with Public and Private Sub
 
 
 
-### 7. Security Group Configuration
+### 5. Security Group Configuration
 
 Configuring security groups for web and database servers.
 
@@ -107,7 +107,7 @@ Configuring security groups for web and database servers.
 
 
 
-### 8. IAM User and Role Creation
+### 6. IAM User and Role Creation
 
 Creating an IAM user and role for secure access.
 
@@ -115,7 +115,7 @@ Creating an IAM user and role for secure access.
 ![IAMUser](https://github.com/user-attachments/assets/aaacecb0-9106-4932-b48a-7f78411397a2)
 
 
-### 9. CloudTrail Setup
+### 7. CloudTrail Setup
 
 Enabling CloudTrail for logging and monitoring.
 
@@ -123,7 +123,7 @@ Enabling CloudTrail for logging and monitoring.
 ![CloudTrail](https://github.com/user-attachments/assets/afdd1729-829d-4595-b8bf-166c4e5a508d)
 
 
-### 10. GuardDuty Setup
+### 8. GuardDuty Setup
 
 Enabling GuardDuty for threat detection.
 
@@ -131,7 +131,7 @@ Enabling GuardDuty for threat detection.
 ![GuardDuty](https://github.com/user-attachments/assets/183df7c1-429a-4a50-9c34-1bc9b4b6ff58)
 
 
-### 11. Lambda Function Creation
+### 9. Lambda Function Creation
 
 Creating a Lambda function for automated incident response.
 
